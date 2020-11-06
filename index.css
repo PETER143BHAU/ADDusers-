@@ -1,0 +1,33 @@
+*{padding: 10px}
+.form-cotroler{
+	width: auto;
+}
+.heading{
+	text-align: center;
+	background-color: red;
+}
+.btn,.btn-1,.btn-2,.btn-3{
+	background-color: black;
+	color: white;
+	width: 150px;
+	border-radius: 10px 10px 10px;
+}
+.adding{
+	color: red;
+	font-size: 40px;
+	text-align: center;
+	width: 200px;
+	background-color: black;
+}
+.btn-3:hover{
+	color: yellow;
+}
+.btn-2:hover{
+	color: yellow;
+}
+.btn-1:hover{
+	color: yellow;
+}
+.btn:hover{
+	color: red;
+}
